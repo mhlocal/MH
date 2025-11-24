@@ -1,7 +1,5 @@
-vless://e8a38094-1499-4ed1-8c34-47433040bf8a@mhminhtet-vless-burma-44.deno.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mhminhtet-vless-burma-44.deno.dev&fp=randomized&type=ws&sni=mhminhtet-vless-burma-44.deno.dev#MH_Local
-vless://e8a38094-1499-4ed1-8c34-47433040bf8a@mhminhtet-vless-burma-26.deno.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mhminhtet-vless-burma-26.deno.dev&fp=randomized&type=ws&sni=mhminhtet-vless-burma-26.deno.dev#MH_Local
-vless://eefba34a-40a0-4104-8bcb-110a30cb9d65@free.bkk2.bluevpn.cloud:8080?security=none&encryption=none&host=www.speedtest.net.onelink.me.net&headerType=http&type=tcp#MH_Local
-vless://86bb17ac-6147-4b30-bbd1-93f242a8ce4f@free.bkk2.bluevpn.cloud:8080?security=none&encryption=none&host=www.speedtest.net.onelink.me.net&headerType=http&type=tcp#MH_Local
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.110.92:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#MH_Local
-vless://e8a38094-1499-4ed1-8c34-47433040bf8a@mhminhtet-vless-burma-43.deno.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mhminhtet-vless-burma-43.deno.dev&fp=randomized&type=ws&sni=mhminhtet-vless-burma-43.deno.dev#MH_Local
 vless://e8a38094-1499-4ed1-8c34-47433040bf8a@mhminhtet-vless-burma-34.deno.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mhminhtet-vless-burma-34.deno.dev&fp=randomized&type=ws&sni=mhminhtet-vless-burma-34.deno.dev#MH_Local
+vless://e8a38094-1499-4ed1-8c34-47433040bf8a@mhminhtet-vless-burma-44.deno.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mhminhtet-vless-burma-44.deno.dev&fp=randomized&type=ws&sni=mhminhtet-vless-burma-44.deno.dev#MH_Local
+vless://e8a38094-1499-4ed1-8c34-47433040bf8a@mhminhtet-vless-burma-43.deno.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mhminhtet-vless-burma-43.deno.dev&fp=randomized&type=ws&sni=mhminhtet-vless-burma-43.deno.dev#MH_Local
+vless://e8a38094-1499-4ed1-8c34-47433040bf8a@mhminhtet-vless-burma-26.deno.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mhminhtet-vless-burma-26.deno.dev&fp=randomized&type=ws&sni=mhminhtet-vless-burma-26.deno.dev#MH_Local
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.110.92:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#MH_Local
