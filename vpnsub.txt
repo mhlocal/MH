@@ -1,2 +1,5 @@
 vless://e8a38094-1499-4ed1-8c34-47433040bf8a@mhminhtet-vless-burma-97.deno.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mhminhtet-vless-burma-97.deno.dev&fp=randomized&type=ws&sni=mhminhtet-vless-burma-97.deno.dev#MH_Local
 vless://e8a38094-1499-4ed1-8c34-47433040bf8a@mhminhtet-vless-burma-13.deno.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mhminhtet-vless-burma-13.deno.dev&fp=randomized&type=ws&sni=mhminhtet-vless-burma-13.deno.dev#MH_Local
+vless://9b30d38d-6055-4f3c-b24e-ac9d26337a18@myanmar.com:443?path=%2F20.235.105.146%3A443&security=tls&encryption=none&host=nzr.biz.id&type=ws&sni=nzr.biz.id#MH_india
+vless://9b30d38d-6055-4f3c-b24e-ac9d26337a18@myanmar.com:443?path=%2F20.235.220.189%3A443&security=tls&encryption=none&host=nzr.biz.id&type=ws&sni=nzr.biz.id#MH_india
+vless://9b30d38d-6055-4f3c-b24e-ac9d26337a18@myanmar.com:443?path=%2F98.70.26.236%3A443&security=tls&encryption=none&host=nzr.biz.id&type=ws&sni=nzr.biz.id#MH_india
